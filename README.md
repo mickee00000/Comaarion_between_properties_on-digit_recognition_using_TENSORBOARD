@@ -1,4 +1,4 @@
-# Comparision_between_properties_with_CIFAR10_using_TENSORBOARD
+# Comparision_between_models_with_differnet_properties_with_CIFAR10_using_TENSORBOARD
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/69727541/174575792-cef3a63e-df54-46bc-96a0-0772c755425e.png)
 
